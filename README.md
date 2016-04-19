@@ -533,7 +533,7 @@ Projects that are not in English have a flag
 ## Tasks
 
 - 1Trackr: Digitally log in your community service hours onto the cloud
-  - https://github.com/JerryHDev/1Trackr
+  - https://github.com/JerryHDev/1Trackr.git
   - https://itunes.apple.com/us/app/1trackr-service-hour-tracking/id1072273630
 - [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List): Store & retrieve tasks using CloudKit 🔶
 - [RealmToDo][]: A small todo list with Realm integration 🔶
